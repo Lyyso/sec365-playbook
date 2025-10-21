@@ -28,7 +28,7 @@ Este projeto é uma ferramenta para gerar **playbooks de incidentes de seguranç
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/seuusuario/sec365-playbook.git
+git clone https://github.com/Lyyso/sec365-playbook.git
 cd sec365-playbook
 
 2. Instale os requisitos do projeto
